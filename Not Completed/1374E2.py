@@ -2,6 +2,8 @@ from operator import itemgetter
 import uuid
 
 
+
+
 '''
 # Returns True is alice and bob has enough preferred books, else returns none and their values
 def aliceAndBobLikes(books, k):
